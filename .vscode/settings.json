@@ -7,6 +7,16 @@
         "bitset": "cpp",
         "initializer_list": "cpp",
         "string": "cpp",
-        "string_view": "cpp"
-    }
+        "string_view": "cpp",
+        "iosfwd": "cpp",
+        "__bit_reference": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp",
+        "__config": "cpp"
+    },
 }
