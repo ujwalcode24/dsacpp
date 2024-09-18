@@ -42,6 +42,7 @@
         "ratio": "cpp",
         "stdexcept": "cpp",
         "typeinfo": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "charconv": "cpp"
     },
 }
